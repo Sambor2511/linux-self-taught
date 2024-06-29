@@ -1,6 +1,6 @@
 # linux-self-taught
 
-Resource: https://linuxjourney.com/lesson/linux-history
+Resource: https://linuxjourney.com
 
 In 1969, Ken Thompson and Dennis Ritchie of Bell Laboratories developed the UNIX operating system. It was later rewritten in C to make it more portable and eventually became a widely used operating system.
 
